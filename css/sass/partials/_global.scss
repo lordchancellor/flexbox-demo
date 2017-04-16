@@ -12,10 +12,6 @@ body {
     margin: 0px 20px;
 }
 
-ul {
-    list-style-type: none;
-}
-
 .flex-container	{
 	border: 1px solid black;
 	border-radius: 10px;
@@ -23,6 +19,11 @@ ul {
 	height: auto;
     min-height: 500px;
     padding: 20px;
+}
+
+ul.flex-container {
+    list-style-type: none;
+    min-height: 0;
 }
 
 .link {
