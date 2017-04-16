@@ -6,7 +6,7 @@ The only prerequisite for this demo is Sass, the compiler for which you can find
 
 ---
 
-The demo index.html is divided into three sections; sections 2, 3, 4 and 5 are commented out. I would suggest you remove or comment a section when you are done with it, although it doesn't entirely matter if you choose not to.
+The demo index.html is divided into five sections; sections 2, 3, 4 and 5 are commented out. I would suggest you remove or comment a section when you are done with it, although it doesn't entirely matter if you choose not to.
 
 It is recommended to place all of your flexbox demo styles into css/sass/partials/_flex.scss.
 
