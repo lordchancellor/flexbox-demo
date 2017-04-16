@@ -12,18 +12,17 @@ body {
     margin: 0px 20px;
 }
 
-.flex-container	{
+ul {
+    list-style-type: none;
+}
+
+.flex-container,
+.flex-list	{
 	border: 1px solid black;
 	border-radius: 10px;
 	width: 100%;
 	height: auto;
-    min-height: 500px;
     padding: 20px;
-}
-
-ul.flex-container {
-    list-style-type: none;
-    min-height: 0;
 }
 
 .link {
@@ -78,5 +77,16 @@ ul.flex-container {
         height: 50px;
         background: rebeccapurple;
     }
-    
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid #133D1D;
+    background: #51FF78;
+
+    h4 {
+        color: #333;
+    }
 }
