@@ -12,6 +12,10 @@ body {
     margin: 0px 20px;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .flex-container	{
 	border: 1px solid black;
 	border-radius: 10px;
@@ -22,7 +26,6 @@ body {
 }
 
 .link {
-    display: inline-block;
     border-radius: 4px;
     padding: 4px 10px;
 
